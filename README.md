@@ -43,7 +43,3 @@ Python, NumPy, Pandas, SciPy, Matplotlib, Seaborn
 How to Run:
 Install required libraries and run the Python script. All outputs and plots
 are generated automatically.
-
-Purpose:
-This project is created for learning and portfolio purposes to demonstrate
-statistical analysis, hypothesis testing, and data visualization skills.
