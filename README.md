@@ -40,6 +40,3 @@ The project generates and saves the following plots:
 Technologies Used:
 Python, NumPy, Pandas, SciPy, Matplotlib, Seaborn
 
-How to Run:
-Install required libraries and run the Python script. All outputs and plots
-are generated automatically.
